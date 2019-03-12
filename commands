@@ -5,3 +5,5 @@ Card Management Commands:
 Examples of using the command:
 "card id"_"card password"_"command"
 123456_cardpassword_send[012345,50]
+
+Mail for receiving commands: pr.sinex@yandex.com
