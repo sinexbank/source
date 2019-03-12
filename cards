@@ -1,11 +1,9 @@
 SINEXCARD {
   id: gL9KUv;
   password_hash: 65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5;
-  balance: 0;
 }
 
 SINEXCARD {
   id: suS2NH;
   password_hash: 18757bdb1b16d4ff554671c23c72acf56719ab48600989d7607221f43fbf06da;
-  balance: 0;
 }
