@@ -6,6 +6,6 @@ SINEXCARD {
 
 SINEXCARD {
   id: suS2NH;
-  password_hash: 9f735e0df9a1ddc702bf0a1a7b83033f9f7153a00c29de82cedadc9957289b05;
+  password_hash: 18757bdb1b16d4ff554671c23c72acf56719ab48600989d7607221f43fbf06da;
   balance: 0;
 }
