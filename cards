@@ -7,3 +7,8 @@ SINEXCARD {
   id: suS2NH;
   password_hash: 18757bdb1b16d4ff554671c23c72acf56719ab48600989d7607221f43fbf06da;
 }
+
+SINEXCARD {
+  id: qNgVHc;
+  password_hash: 72d65fc95050d6baddfbb2e5a111176143ce30c15afa875b679473d1177458ad;
+}
