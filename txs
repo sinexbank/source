@@ -1,0 +1,13 @@
+newtx {
+  id: 1;
+  from: SINEXBASE;
+  to: gL9KUv;
+  value: 10.00;
+}
+
+newtx {
+  id: 2;
+  from: gL9KUv;
+  to: suS2NH;
+  value: 1.52;
+}
