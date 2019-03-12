@@ -1,3 +1,9 @@
+zerotx {
+  id: 0;
+  to: SINEXBASE;
+  value: 1000000000.00;
+}
+
 newtx {
   id: 1;
   from: SINEXBASE;
