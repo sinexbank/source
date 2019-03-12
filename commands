@@ -1,6 +1,7 @@
 Card Management Commands:
  - send["receiver card id","value"] //Check your input before sending!
  - card.block["block time (days)"] //Be sure to use integers.
+ - change.pass["card id","new SHA256 hash of password"] //This command can be using every 10 days.
 
 Examples of using the command:
 "card id"_"card password"_"command"
