@@ -1,7 +1,7 @@
 Card Management Commands:
  - send["receiver card id","value"] //Check your input before sending!
  - card.block["block time (days)"] //Be sure to use integers.
-  
+
 Examples of using the command:
 "card id"_"card password"_"command"
 123456_cardpassword_send[012345,50]
